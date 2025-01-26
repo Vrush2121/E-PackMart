@@ -16,6 +16,9 @@ import com.example.demo.entity.User;
 import com.example.demo.service.CompanyService;
 import com.example.demo.service.UserService;
 
+//This is User Controller
+
+
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController
 public class UserController {
